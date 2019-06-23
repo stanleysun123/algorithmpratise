@@ -19,7 +19,7 @@ class FibonacciExample {
 
         // Reading data using readLine
         String number = reader.readLine();
-
+K
         // Printing the read line
         System.out.println(number);
 
